@@ -1,0 +1,39 @@
+
+
+body {
+    background-image: url(./imagens/backgorund.png) ;
+    background-repeat: no-repeat;
+    margin-bottom: 20px;
+    background-size: 700px;
+    
+    background-position-x: 50px;
+    padding-bottom: 40px;
+  
+   
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    padding-left: 35px;
+    font-weight: normal;
+    text-transform:capitalize;
+
+    
+}
+
+.textos{
+    margin: 30px;
+    font-size: 28px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    text-align: center;
+   
+}
+
+.imagens{
+    width: 60px;
+    margin-left: 40px;
+}
